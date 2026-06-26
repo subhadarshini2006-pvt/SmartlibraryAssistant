@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Library Assistant
 
 ## Technologies Used
@@ -26,3 +27,6 @@ pip install -r requirements.txt
 ## Run
 
 python main.py
+=======
+# SmartlibraryAssistant
+>>>>>>> e0a8f83b1d6642a350314431f2dacdca7de2e3c2
