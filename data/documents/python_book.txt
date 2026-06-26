@@ -1,0 +1,18 @@
+Python Programming
+
+Python is a high-level programming language.
+
+Features:
+- Easy to learn
+- Object-Oriented
+- Platform Independent
+- Large Standard Library
+
+Applications:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Web Development
+- Automation
+
+Python supports multiple programming paradigms and is one of the most popular programming languages in the world.

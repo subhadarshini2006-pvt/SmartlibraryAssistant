@@ -1,0 +1,101 @@
+Book_ID,Title,Author,Subject,Publisher,Year,Copies
+101,Python Programming Vol 1,Guido Rossum,Programming,O'Reilly,2016,3
+102,Artificial Intelligence Vol 1,Stuart Russell,AI,Pearson,2017,4
+103,Machine Learning Vol 1,Tom Mitchell,ML,McGraw Hill,2018,5
+104,Deep Learning Vol 1,Ian Goodfellow,DL,MIT Press,2019,6
+105,Database Management System Vol 1,Raghu Ramakrishnan,DBMS,Pearson,2020,7
+106,Computer Networks Vol 1,Andrew Tanenbaum,Networking,Pearson,2021,8
+107,Operating System Vol 1,Abraham Silberschatz,OS,Wiley,2022,9
+108,Cyber Security Essentials Vol 1,William Stallings,Cyber Security,Packt,2023,10
+109,Data Science Handbook Vol 1,Joel Grus,Data Science,Springer,2024,3
+110,Cloud Computing Vol 1,Thomas Erl,Cloud Computing,Apress,2025,4
+111,Python Programming Vol 2,Guido Rossum,Programming,O'Reilly,2016,5
+112,Artificial Intelligence Vol 2,Stuart Russell,AI,Pearson,2017,6
+113,Machine Learning Vol 2,Tom Mitchell,ML,McGraw Hill,2018,7
+114,Deep Learning Vol 2,Ian Goodfellow,DL,MIT Press,2019,8
+115,Database Management System Vol 2,Raghu Ramakrishnan,DBMS,Pearson,2020,9
+116,Computer Networks Vol 2,Andrew Tanenbaum,Networking,Pearson,2021,10
+117,Operating System Vol 2,Abraham Silberschatz,OS,Wiley,2022,3
+118,Cyber Security Essentials Vol 2,William Stallings,Cyber Security,Packt,2023,4
+119,Data Science Handbook Vol 2,Joel Grus,Data Science,Springer,2024,5
+120,Cloud Computing Vol 2,Thomas Erl,Cloud Computing,Apress,2025,6
+121,Python Programming Vol 3,Guido Rossum,Programming,O'Reilly,2016,7
+122,Artificial Intelligence Vol 3,Stuart Russell,AI,Pearson,2017,8
+123,Machine Learning Vol 3,Tom Mitchell,ML,McGraw Hill,2018,9
+124,Deep Learning Vol 3,Ian Goodfellow,DL,MIT Press,2019,10
+125,Database Management System Vol 3,Raghu Ramakrishnan,DBMS,Pearson,2020,3
+126,Computer Networks Vol 3,Andrew Tanenbaum,Networking,Pearson,2021,4
+127,Operating System Vol 3,Abraham Silberschatz,OS,Wiley,2022,5
+128,Cyber Security Essentials Vol 3,William Stallings,Cyber Security,Packt,2023,6
+129,Data Science Handbook Vol 3,Joel Grus,Data Science,Springer,2024,7
+130,Cloud Computing Vol 3,Thomas Erl,Cloud Computing,Apress,2025,8
+131,Python Programming Vol 4,Guido Rossum,Programming,O'Reilly,2016,9
+132,Artificial Intelligence Vol 4,Stuart Russell,AI,Pearson,2017,10
+133,Machine Learning Vol 4,Tom Mitchell,ML,McGraw Hill,2018,3
+134,Deep Learning Vol 4,Ian Goodfellow,DL,MIT Press,2019,4
+135,Database Management System Vol 4,Raghu Ramakrishnan,DBMS,Pearson,2020,5
+136,Computer Networks Vol 4,Andrew Tanenbaum,Networking,Pearson,2021,6
+137,Operating System Vol 4,Abraham Silberschatz,OS,Wiley,2022,7
+138,Cyber Security Essentials Vol 4,William Stallings,Cyber Security,Packt,2023,8
+139,Data Science Handbook Vol 4,Joel Grus,Data Science,Springer,2024,9
+140,Cloud Computing Vol 4,Thomas Erl,Cloud Computing,Apress,2025,10
+141,Python Programming Vol 5,Guido Rossum,Programming,O'Reilly,2016,3
+142,Artificial Intelligence Vol 5,Stuart Russell,AI,Pearson,2017,4
+143,Machine Learning Vol 5,Tom Mitchell,ML,McGraw Hill,2018,5
+144,Deep Learning Vol 5,Ian Goodfellow,DL,MIT Press,2019,6
+145,Database Management System Vol 5,Raghu Ramakrishnan,DBMS,Pearson,2020,7
+146,Computer Networks Vol 5,Andrew Tanenbaum,Networking,Pearson,2021,8
+147,Operating System Vol 5,Abraham Silberschatz,OS,Wiley,2022,9
+148,Cyber Security Essentials Vol 5,William Stallings,Cyber Security,Packt,2023,10
+149,Data Science Handbook Vol 5,Joel Grus,Data Science,Springer,2024,3
+150,Cloud Computing Vol 5,Thomas Erl,Cloud Computing,Apress,2025,4
+151,Python Programming Vol 6,Guido Rossum,Programming,O'Reilly,2016,5
+152,Artificial Intelligence Vol 6,Stuart Russell,AI,Pearson,2017,6
+153,Machine Learning Vol 6,Tom Mitchell,ML,McGraw Hill,2018,7
+154,Deep Learning Vol 6,Ian Goodfellow,DL,MIT Press,2019,8
+155,Database Management System Vol 6,Raghu Ramakrishnan,DBMS,Pearson,2020,9
+156,Computer Networks Vol 6,Andrew Tanenbaum,Networking,Pearson,2021,10
+157,Operating System Vol 6,Abraham Silberschatz,OS,Wiley,2022,3
+158,Cyber Security Essentials Vol 6,William Stallings,Cyber Security,Packt,2023,4
+159,Data Science Handbook Vol 6,Joel Grus,Data Science,Springer,2024,5
+160,Cloud Computing Vol 6,Thomas Erl,Cloud Computing,Apress,2025,6
+161,Python Programming Vol 7,Guido Rossum,Programming,O'Reilly,2016,7
+162,Artificial Intelligence Vol 7,Stuart Russell,AI,Pearson,2017,8
+163,Machine Learning Vol 7,Tom Mitchell,ML,McGraw Hill,2018,9
+164,Deep Learning Vol 7,Ian Goodfellow,DL,MIT Press,2019,10
+165,Database Management System Vol 7,Raghu Ramakrishnan,DBMS,Pearson,2020,3
+166,Computer Networks Vol 7,Andrew Tanenbaum,Networking,Pearson,2021,4
+167,Operating System Vol 7,Abraham Silberschatz,OS,Wiley,2022,5
+168,Cyber Security Essentials Vol 7,William Stallings,Cyber Security,Packt,2023,6
+169,Data Science Handbook Vol 7,Joel Grus,Data Science,Springer,2024,7
+170,Cloud Computing Vol 7,Thomas Erl,Cloud Computing,Apress,2025,8
+171,Python Programming Vol 8,Guido Rossum,Programming,O'Reilly,2016,9
+172,Artificial Intelligence Vol 8,Stuart Russell,AI,Pearson,2017,10
+173,Machine Learning Vol 8,Tom Mitchell,ML,McGraw Hill,2018,3
+174,Deep Learning Vol 8,Ian Goodfellow,DL,MIT Press,2019,4
+175,Database Management System Vol 8,Raghu Ramakrishnan,DBMS,Pearson,2020,5
+176,Computer Networks Vol 8,Andrew Tanenbaum,Networking,Pearson,2021,6
+177,Operating System Vol 8,Abraham Silberschatz,OS,Wiley,2022,7
+178,Cyber Security Essentials Vol 8,William Stallings,Cyber Security,Packt,2023,8
+179,Data Science Handbook Vol 8,Joel Grus,Data Science,Springer,2024,9
+180,Cloud Computing Vol 8,Thomas Erl,Cloud Computing,Apress,2025,10
+181,Python Programming Vol 9,Guido Rossum,Programming,O'Reilly,2016,3
+182,Artificial Intelligence Vol 9,Stuart Russell,AI,Pearson,2017,4
+183,Machine Learning Vol 9,Tom Mitchell,ML,McGraw Hill,2018,5
+184,Deep Learning Vol 9,Ian Goodfellow,DL,MIT Press,2019,6
+185,Database Management System Vol 9,Raghu Ramakrishnan,DBMS,Pearson,2020,7
+186,Computer Networks Vol 9,Andrew Tanenbaum,Networking,Pearson,2021,8
+187,Operating System Vol 9,Abraham Silberschatz,OS,Wiley,2022,9
+188,Cyber Security Essentials Vol 9,William Stallings,Cyber Security,Packt,2023,10
+189,Data Science Handbook Vol 9,Joel Grus,Data Science,Springer,2024,3
+190,Cloud Computing Vol 9,Thomas Erl,Cloud Computing,Apress,2025,4
+191,Python Programming Vol 10,Guido Rossum,Programming,O'Reilly,2016,5
+192,Artificial Intelligence Vol 10,Stuart Russell,AI,Pearson,2017,6
+193,Machine Learning Vol 10,Tom Mitchell,ML,McGraw Hill,2018,7
+194,Deep Learning Vol 10,Ian Goodfellow,DL,MIT Press,2019,8
+195,Database Management System Vol 10,Raghu Ramakrishnan,DBMS,Pearson,2020,9
+196,Computer Networks Vol 10,Andrew Tanenbaum,Networking,Pearson,2021,10
+197,Operating System Vol 10,Abraham Silberschatz,OS,Wiley,2022,3
+198,Cyber Security Essentials Vol 10,William Stallings,Cyber Security,Packt,2023,4
+199,Data Science Handbook Vol 10,Joel Grus,Data Science,Springer,2024,5
+200,Cloud Computing Vol 10,Thomas Erl,Cloud Computing,Apress,2025,6

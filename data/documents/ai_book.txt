@@ -1,0 +1,12 @@
+Artificial Intelligence
+
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Main Topics:
+- Expert Systems
+- Robotics
+- Computer Vision
+- Natural Language Processing
+- Machine Learning
+
+AI is widely used in healthcare, education, finance, and autonomous vehicles.

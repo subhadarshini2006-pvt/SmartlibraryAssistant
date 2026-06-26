@@ -1,0 +1,17 @@
+Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Popular Algorithms:
+- Decision Tree
+- Random Forest
+- Support Vector Machine
+- K-Nearest Neighbor
+
+Machine Learning learns patterns from historical data to make predictions.

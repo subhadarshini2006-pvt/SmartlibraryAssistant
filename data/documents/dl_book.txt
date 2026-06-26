@@ -1,0 +1,17 @@
+Deep Learning
+
+Deep Learning is an advanced form of Machine Learning.
+
+Deep Learning uses Artificial Neural Networks.
+
+Popular Networks:
+- CNN
+- RNN
+- LSTM
+- Transformer
+
+Applications:
+- Image Recognition
+- Speech Recognition
+- Language Translation
+- Self-Driving Cars

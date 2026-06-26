@@ -1,0 +1,9 @@
+opencv-python
+pytesseract
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+transformers
+torch
